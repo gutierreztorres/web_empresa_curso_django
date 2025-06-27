@@ -21,10 +21,10 @@ def contacto(request):
                 ['andrea-msn@hotmail.com'],
                 reply_to=[email]
             )
-           
+
             email.send()
             return redirect(reverse('contact') + '?ok')
             
 
     
-        return render(request,"contact/contact.html", {'form':contact_form})
+    return render(request,"contact/contact.html", {'form':contact_form})
