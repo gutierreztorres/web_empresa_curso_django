@@ -1,1 +1,3 @@
-# web_empresa_curso_django
+# web_empresa_curso_django :  
+Proyecto desarrollado siguiendo un curso da Django en la plataforma Udemy. En general los archivos estaticos y las diversas librerías nos los proporcionó el profesor en la plataforma.  
+Mi desempeño en la web de basa en el backend de Django donde ajustamos vistas, premisos, creamos modelos para la inserción de campos... y con ello creamos un backend a traves del cual subir artículos al blog, servicios...
